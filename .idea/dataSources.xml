@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="in_out_calculator@localhost" uuid="69338090-54f6-4024-a0b1-771b89c67a56">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/in_out_calculator</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="US/Central" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2adc529c-fd79-44ff-abe4-8af6d62458c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/dogukanaydn/income-outcome-calculator" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1fgRdzYs3iFDeucdetKMMUkDSDa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2adc529c-fd79-44ff-abe4-8af6d62458c3" name="Default Changelist" comment="" />
+      <created>1596637840592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596637840592</updated>
+      <workItem from="1596637841626" duration="7925000" />
+      <workItem from="1596703669967" duration="26907000" />
+      <workItem from="1596788486422" duration="24013000" />
+      <workItem from="1596824699246" duration="635000" />
+      <workItem from="1596827646735" duration="624000" />
+      <workItem from="1596876006949" duration="9125000" />
+      <workItem from="1596924274545" duration="854000" />
+      <workItem from="1596979435662" duration="6832000" />
+      <workItem from="1597000910789" duration="31000" />
+      <workItem from="1597001295195" duration="211000" />
+      <workItem from="1597006618832" duration="2433000" />
+      <workItem from="1597013720661" duration="59000" />
+      <workItem from="1597046189624" duration="20277000" />
+      <workItem from="1597135068801" duration="1135000" />
+      <workItem from="1597146213605" duration="664000" />
+      <workItem from="1597147152533" duration="591000" />
+      <workItem from="1597148507464" duration="16000" />
+      <workItem from="1597148616796" duration="9000" />
+      <workItem from="1597148777026" duration="311000" />
+      <workItem from="1597149158992" duration="453000" />
+      <workItem from="1597149636959" duration="644000" />
+      <workItem from="1597164780274" duration="8562000" />
+      <workItem from="1597230703139" duration="659000" />
+      <workItem from="1597308673792" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="67" key="#CLI_Interpreters" timestamp="1597001436997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1597001436997" />
+    <state x="361" y="71" key="#Intentions" timestamp="1597165946945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1597165946945" />
+    <state x="521" y="232" key="#Notifications" timestamp="1597149676690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="232" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1597149676690" />
+    <state x="487" y="0" width="588" height="824" key="#PHP" timestamp="1597001440537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="0" width="588" height="824" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1597001440537" />
+    <state x="194" y="248" key="#SQL_Dialects" timestamp="1597006664608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="194" y="248" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1597006664608" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596806963905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596806963905" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597007972255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1597007972255" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1596878516989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596878516989" />
+    <state x="562" y="167" key="FileChooserDialogImpl" timestamp="1597148622433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597148622433" />
+    <state width="1024" height="204" key="GridCell.Tab.0.bottom" timestamp="1596811020693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596811020693" />
+    <state width="1024" height="204" key="GridCell.Tab.0.center" timestamp="1596811020693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596811020693" />
+    <state width="1024" height="204" key="GridCell.Tab.0.left" timestamp="1596811020693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596811020693" />
+    <state width="1024" height="204" key="GridCell.Tab.0.right" timestamp="1596811020693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596811020693" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1597165718669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1597165718669" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1597149174451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597149174451" />
+    <state x="490" y="154" width="540" height="540" key="StructurePopup" timestamp="1596883014511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="540" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1596883014511" />
+    <state x="618" y="319" key="VCS.ChangelistChooser" timestamp="1596878224358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="319" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1596878224358" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1596924320400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596924320400" />
+    <state x="545" y="185" key="refactoring.ChangeSignatureDialog" timestamp="1596883812952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="185" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1596883812952" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1597170192414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597170192414" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597062347144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597062347144" />
+  </component>
+</project>

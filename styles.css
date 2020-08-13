@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.success {
+    background: #D7BDE2;
+    color: #512E5F;
+    padding: 10px 25px ;
+}
+
+.card {
+    background: #FFFFFF;
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 10px solid #512E5F;
+    outline: none;
+}
+
+.income-head {
+    background: #512E5F;
+    text-align: center;
+    padding: 20px 0;
+    color: #FFFFFF;
+
+
+}
+
+.input-txt {
+    margin: 20px 25px 0 25px;
+    color: #512E5F;
+}
+
+.input-txt input  {
+    background: white;
+    margin-top: 10px;
+    border: 1px solid #512E5F;
+    width: 243px;
+    padding: 5px 0 5px 5px;
+}
+
+.btn-add {
+    background: #512E5F;
+    display: block;
+    width: 250px;
+    height: 40px;
+    margin: 40px 25px;
+    cursor: pointer;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px,auto);
+}
+
+.grid-income {
+    grid-column: 1;
+    grid-row: 1;
+}
+.grid-outcome {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.grid-main {
+    background: #FFFFFF;
+    grid-column: 2 / 6;
+    grid-row: 1 / 3;
+    margin-right: 51px;
+    margin-top: 20px;
+    border: 5px solid #512E5F;
+}
+
+.income-list-div {
+    height: 44%;
+}
+
+.list {
+    background: #512E5F;
+    width: 20%;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px 0;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.list-frame {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 96%;
+    height: 60%;
+    border: 2px solid #512E5F;
+}
+
+.total {
+    background: #512E5F;
+    float: right;
+    width: 20%;
+    margin-right: 22px;
+    margin-top: 10px;
+    padding: 10px 0 10px 5px;
+    color: #FFFFFF;
+}
+
+.outcome-list-div {
+    margin-top: 40px;
+    height: 40%;
+}
+
+.profit {
+    background: #512E5F;
+    height: 32px;
+    margin-top: 8px;
+}
+
+.profit p {
+    width: 20%;
+    float: right;
+    margin-right: 22px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.table {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.table-header {
+    font-weight: bold;
+    padding: 5px 5px;
+    border-bottom: 1px solid #512E5F;
+    color:  #512E5F;
+}
+
+.table td {
+    width: 326px;
+    padding: 5px 5px;
+}
+
+td input {
+    width: 60px;
+    height: 20px;
+    border: none;
+    cursor: pointer;
+}
+[name = "edit"] {
+    background: #512E5F;
+    color: #FFFFFF;
+}
+
+[name = "delete"] {
+    background: #FFFFFF;
+    font-weight: bold;
+    color: #512E5F;
+    border: 1px solid #512E5F;
+
+}
